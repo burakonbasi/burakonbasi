@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Hello, How are you? I hope you are fine... I am Burak Onbaşıoğlu, a 28-year-old software development specialist. I have been developing software regularly since I was 13 years old. I have had a lot of work experience as I am a person who is far from being centralized, which is my characteristic feature, and maintains his life as an entrepreneur.And I started developing with C#. then C and Java. I have been working with web technologies and node.js for about 6 years. I have knowledge of PHP, c#, c, React. I am interested in Aİ Tech as a hobby. I have experience with MongoDB, MySQL, AWS ECS, AWS Fargate, Kubernetes, AWS CloudFront, AWS S3 and GCP.
+Hello, How are you? I hope you are fine... I am Burak Onbaşıoğlu, a 30-year-old software development specialist. I have been developing software regularly since I was 13 years old. I have had a lot of work experience as I am a person who is far from being centralized, which is my characteristic feature, and maintains his life as an entrepreneur.And I started developing with C#. then C and Java. I have been working with web technologies and node.js for about 6 years. I have knowledge of PHP, c#, c, React. I am interested in Aİ Tech as a hobby. I have experience with MongoDB, MySQL, AWS ECS, AWS Fargate, Kubernetes, AWS CloudFront, AWS S3 and GCP.
 
 * 🌍  I'm based in İzmir
 * 🖥️  See my portfolio at [See my portfolio at](http://oncreativemedia.com)
