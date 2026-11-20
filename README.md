@@ -58,13 +58,6 @@ and I have shipped ERP, CRM, POS, healthcare and pharmacy systems used by real b
 | **CRM & workflow** | CRM for a real-estate sales center, with an interactive simulation of the sales process |
 | **Integrations & automation** | POS / ECR device APIs, Node.js proxy services, browser automation |
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=burakonbasi&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakonbasi&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
 ---
 
 <p align="center"><i>Have a project in mind or a role that fits? Feel free to reach out.</i></p>
